@@ -41,10 +41,6 @@ Tenho 2 anos de experiência em QA e gosto de testar do jeito que quem programa 
 | Projeto | O que demonstra | Stack |
 |---|---|---|
 | [Jogo da Velha](https://github.com/Gabriela22204/Gabriela22204.github.io) | Projeto próprio em JavaScript, base para testes unitários e E2E | JavaScript |
-| <!-- TODO: link do short-cart --> **Short Cart** | E2E com Playwright e pipeline de CI/CD | Playwright, GitHub Actions |
-| <!-- TODO: link --> **Testes de API** | Collection Postman, cenários positivos/negativos, Newman no CI | Postman, Newman, GitHub Actions |
-| <!-- TODO: link --> **Suíte de regressão** | Execução agendada e por pull request | Playwright, GitHub Actions |
-| <!-- TODO: link --> **Documentação de QA** | Plano de testes, casos em Gherkin, bug reports | Markdown |
 
 ---
 
